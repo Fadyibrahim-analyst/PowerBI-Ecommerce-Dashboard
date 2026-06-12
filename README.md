@@ -63,3 +63,7 @@ The dashboard provides insights into:
 - A small number of customers contributed a large share of sales.
 - Revenue varied significantly by city.
 - RFM analysis identified high-value and inactive customers.
+
+  ## Related Project
+
+[SQL Ecommerce Analytics Project](https://github.com/fadyibrahim987-code/SQL-Ecommerce-Analytics)
