@@ -44,7 +44,7 @@ The dashboard provides insights into:
 
 ### RFM Analysis
 
-![RFM Analysis](screenshots/RFM_analysis.png)
+![RFM Analysis](Screenshots/RFM_analysis.png)
 
 ---
 
