@@ -32,15 +32,15 @@ The dashboard provides insights into:
 
 ### Revenue by Category
 
-![Revenue by Category](Screenshots/Revenue by category.png)
+![Revenue by Category](Screenshots/Revenue_by_category.png)
 
 ### Top Products
 
-![Top Products](Screenshots/Top Products by Revenue.png)
+![Top Products](Screenshots/Top_Products_by_Revenue.png)
 
 ### Revenue by City
 
-![Revenue by City](Screenshots/Top Cities by Revenue.png)
+![Revenue by City](Screenshots/Top_Cities_by_Revenue.png)
 
 ### RFM Analysis
 
