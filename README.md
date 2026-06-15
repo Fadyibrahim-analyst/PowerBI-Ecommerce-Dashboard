@@ -26,25 +26,10 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 
-### Executive Dashboard
+### Dashboard
 
-![Dashboard](Screenshots/dashboard_overview.png)
+![Dashboard](Screenshots/00_Sales_Dashboard_Overview.png)
 
-### Revenue by Category
-
-![Revenue by Category](Screenshots/Revenue_by_category.png)
-
-### Top Products
-
-![Top Products](Screenshots/Top_Products_by_Revenue.png)
-
-### Revenue by City
-
-![Revenue by City](Screenshots/Top_Cities_by_Revenue.png)
-
-### RFM Analysis
-
-![RFM Analysis](Screenshots/RFM_analysis.png)
 
 ---
 
