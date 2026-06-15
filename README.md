@@ -52,3 +52,11 @@ The dashboard provides insights into:
   ## Related Project
 
 [SQL Ecommerce Analytics Project](https://github.com/fadyibrahim987-code/SQL-Ecommerce-Analytics)
+
+---
+
+## 👤 Author
+
+**Fady Ibrahim** — Operations & Business Analyst 
+[LinkedIn](https://www.linkedin.com/in/fady-ibrahim-b343013b1) · [GitHub Portfolio](https://github.com/Fadyibrahim-analyst)
+
