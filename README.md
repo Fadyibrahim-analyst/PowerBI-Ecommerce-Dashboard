@@ -28,7 +28,7 @@ The dashboard provides insights into:
 
 ### Dashboard
 
-![Dashboard](Screenshots/00_Sales_Dashboard_Overview.png)
+![Dashboard](Screenshots/02_Sales_Dashboard_Overview.png)
 
 
 ---
